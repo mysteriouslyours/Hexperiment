@@ -96,7 +96,7 @@ h1 {
 	z-index: 2;
 }
 
-#img3 {
+#circle1 {
 	position: relative;
 	border-radius: 80px;
 	width: 8%;
@@ -107,7 +107,7 @@ h1 {
 	z-index: 3;
 }
 
-#img4 {
+#circle2 {
 	position: relative;
 	border-radius: 80px;
 	width: 8%;
@@ -140,3 +140,60 @@ h1 {
 	background-color: #E66E42;	
 }
 
+#interactive {
+	position: relative;
+	width: 50%;
+	height: 80px;
+	border: 5px dashed black;
+	left: 700px;
+	top: -30px;
+}
+
+
+/* A-LORE-CHEMY */
+
+.img {
+	position: relative;
+	width: 15%;
+	height: 150px;
+	border: 5px dashed black;
+	left: 30px;
+}
+
+#pic1 {
+	top: 50px;
+}
+
+#pic2 {
+	top: 80px;
+}
+
+#pic3 {
+	top: 110px;
+}
+
+.img2 {
+	position: relative;
+	width: 15%;
+	height: 150px;
+	border: 5px dashed black;
+	left: 300px;
+}
+
+#pic4 {
+	top: -330px;
+}
+
+#pic5 {
+	top: -280px;
+}
+
+#para {
+	background-color: #333;
+	position: relative;
+	width: 50%;
+	height: 500px;
+	border: 5px dashed black;
+	left: 600px;
+	top: -750px;
+}
